@@ -4,7 +4,7 @@
 
 ### AIM:
 
-To generate and detect the amplitude modulation and demodulation u s i n g S C I L A B and to calculate modulation index of AM.
+To generate and detect the amplitude modulation and demodulation using S C I L A B and to calculate modulation index of AM.
 
 ### EQUIPMENTS REQUIRED
 
@@ -120,6 +120,3 @@ plot(t,eAm)
 
  Thus, the amplitude modulation and demodulation is experimentally done and the output is verified.
 
-
-RESULT:
-Thus the amplitude modulation and demodulation is experimentally done and the output is verified.
